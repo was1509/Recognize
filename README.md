@@ -1,5 +1,5 @@
 # Recognize
-iOS application that recognises handwriting and text.
+iOS application using Swift programming language that recognises handwriting and text.
 
 ## Data
 ### Files
